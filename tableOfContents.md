@@ -12,6 +12,8 @@ order: 3
 
 1. [Preface](/detel-book/chapter/introduction/preface/)
 
+1. [Widget](/detel-book/chapter/widget/widget/)
+
 2. [What is Technology-Enhanced Learning (TEL)?](/detel-book/chapter/introduction/intro-to-TEL/)
 
 ## 2 TEL Areas of Interest
